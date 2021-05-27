@@ -1,0 +1,17 @@
+body {
+    background: orangered;
+    color: maroon;
+}
+ .heading{
+    width: 60%;
+    font-size: 34px;
+
+}
+.name_of_familymembers,#result_familymember_name,#result_accuracy_name{
+    color: darkgoldenrod;
+}
+#camera{
+    border: 2px  dashed grey;
+    width: 356px;
+    height: 356px;
+}
